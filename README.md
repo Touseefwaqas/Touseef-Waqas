@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Touseefwaqas
-- 👀 I’m interested in Web Development, Python Programming and Technical Content Writing.
-- 🌱 I’m currently learning Web Development and Python Programming.
-- 💞️ I’m looking to collaborate on Open Source and also to get an internship.
+- 👀 I’m a Passionate Technical Writer and a Web Developer.
+- 🌱 Currently learning Web Developement.
+- 💞️ I’m looking to collaborate on Open Source.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/touseef-waqas-8911b4284/)
 
 <!---
